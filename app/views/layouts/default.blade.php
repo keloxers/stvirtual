@@ -103,7 +103,7 @@
 	<div class="pi-section pi-section-header pi-section-header-sm pi-clearfix">
 
 <div class="pi-header-block pi-header-block-txt">
-	<img src="/img/logo_fmlibre.png" alt=""></i>
+	
 	</div>
 		<!-- Phone -->
 		<div class="pi-header-block pi-header-block-txt">
