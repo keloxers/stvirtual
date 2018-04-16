@@ -6,7 +6,6 @@
 	<title>{{trans('pages.name')}}</title>
 
 	<link rel="shortcut icon" href="/favicon.ico">
-
 	<link rel="stylesheet" type="text/css" href="/css/style.css"/>
 	<link rel="stylesheet" type="text/css" href="/css/loader.css"/>
 	<link rel="stylesheet" type="text/css" href="/css/slider.css"/>
