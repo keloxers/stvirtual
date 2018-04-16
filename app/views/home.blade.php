@@ -588,7 +588,7 @@ if ($turno) {
 
 			<div class="pi-row">
 				<div class="pi-col-sm-12 pi-center-text-xs">
-					<h1 class="h2 pi-weight-300 pi-margin-bottom-5">Gracias a estras empresas Ud. puede leer las noticas de SantoTomeVirtual.com</h1>
+					<h1 class="h2 pi-weight-300 pi-margin-bottom-5">Gracias a estas empresas Ud. puede leer SantoTomeVirtual.com</h1>
 				</div>
 			</div>
 

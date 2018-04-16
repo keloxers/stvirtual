@@ -106,7 +106,7 @@
 
 						<div class="pi-col-sm-8 pi-text-right pi-center-text-xs">
 							<ul class="pi-social-icons pi-colored-bg pi-small pi-active-bg pi-jump pi-jump-bg pi-round pi-clearfix">
-								<li><a href="http://www.facebook.com/sharer.php?u=http://www.virasorovirtual.com/articulos/{{$articulo->url_ceo}}>" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
+								<li><a href="http://www.facebook.com/sharer.php?u=http://www.santotomevirtual.com/articulos/{{$articulo->url_ceo}}>" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
 								<li><a href="http://twitter.com/share?text=Mira esta noticia !&url={{$articulo->url_ceo}}" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
 								<li><a href="https://plus.google.com/share?url={{$articulo->url_ceo}}" class="pi-social-icon-gplus"><i class="icon-gplus"></i></a></li>
 							</ul>
@@ -151,7 +151,7 @@
 					<!-- <div id="disqus_thread"></div>
 					<script type="text/javascript">
 					/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-					var disqus_shortname = 'virasorovirtual'; // required: replace example with your forum shortname
+					var disqus_shortname = 'santotomevirtual'; // required: replace example with your forum shortname
 
 					/* * * DON'T EDIT BELOW THIS LINE * * */
 					(function() {
@@ -172,7 +172,7 @@
 				fjs.parentNode.insertBefore(js, fjs);
 			}(document, 'script', 'facebook-jssdk'));</script>
 
-			<div class="fb-comments" data-href="http://www.virasorovirtual.com/articulos/{{$articulo->url_seo}}" data-width="800" data-colorscheme="light"></div>
+			<div class="fb-comments" data-href="http://www.santotomevirtual.com/articulos/{{$articulo->url_seo}}" data-width="800" data-colorscheme="light"></div>
 
 
 			<?php } ?>
@@ -280,7 +280,7 @@
 					<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-20">
 						Ultimos Tweets
 					</h3>
-						<a class="twitter-timeline" href="https://twitter.com/virasorovirtual" data-widget-id="457138837286699008">Tweets por @virasorovirtual</a>
+						<a class="twitter-timeline" href="https://twitter.com/santotomevirtual" data-widget-id="457138837286699008">Tweets por @santotomevirtual</a>
 						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 					</div>
 				<!-- End tweets -->
@@ -290,7 +290,7 @@
 					<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-20">
 						Facebook
 					</h3>
-					<div class="fb-page" data-href="https://www.facebook.com/virasorovirtual" data-tabs="timeline" data-height="1000" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/virasorovirtual"><a href="https://www.facebook.com/virasorovirtual">VirasoroVirtual</a></blockquote></div></div>
+					<div class="fb-page" data-href="https://www.facebook.com/santotomevirtual" data-tabs="timeline" data-height="1000" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/santotomevirtual"><a href="https://www.facebook.com/santotomevirtual">santotomevirtual</a></blockquote></div></div>
 				</div>
 				<!-- End flickr photos -->
 
