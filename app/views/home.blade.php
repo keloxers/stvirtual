@@ -682,7 +682,7 @@ if ($turno) {
 			<div class="pi-section-w pi-center-text-xs pi-text-center">
 				<br>
 				<div align="center" >
-					<div id="cont_45dad13cc976c360654861b1384f63e4"><script type="text/javascript" async src="https://www.tiempo.com/wid_loader/45dad13cc976c360654861b1384f63e4"></script></div>
+					<div id="cont_85da330efd541b7d90059b32c55fa41b"><script type="text/javascript" async src="https://www.tiempo.com/wid_loader/85da330efd541b7d90059b32c55fa41b"></script></div>
 				</div>
 			</div>
 		</div>
