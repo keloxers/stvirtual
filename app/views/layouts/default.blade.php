@@ -107,31 +107,23 @@
 	</div>
 		<!-- Phone -->
 		<div class="pi-header-block pi-header-block-txt">
-			<audio controls preload="metadata" style=" width:200px;">
-	<source src="http://8.9.3.32:8000/fmlibre" type="audio/mpeg">
-	Tu navegador no soporta el audio en vivo de FMLibre 96.9
-</audio>
+
 		</div>
 		<!-- End phone -->
 
 		<div class="pi-header-block pi-header-block-txt">
-				<img src="/img/vvgoogleplay.png" alt=""></i> Descarga nuestra <a href="https://play.google.com/store/apps/details?id=com.codexcontrol.virasorovirtual&hl=es_419"><strong>Aplicacion Android</strong></a>
+				<img src="/img/vvwhastsapp.png" alt=""></i><strong>(3756) 498610</strong></a>
 		</div>
 
 
 
-		<!-- Radio
-		<div class="pi-header-block pi-header-block-txt">
-				// <audio controls autoplay="autoplay"><source src="http://208.68.36.162:8000/live" type="audio/mp3">Your browser does not support the audio element.</audio>
 
-		</div>
-		    End radio -->
 
 		<!-- Social icons -->
 		<div class="pi-header-block pi-pull-right pi-hidden-2xs">
 			<ul class="pi-social-icons pi-stacked pi-jump pi-full-height pi-bordered pi-small pi-colored-bg clearFix">
-				<li><a href="http://www.twitter.com/virasorovirtual" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
-				<li><a href="http://www.facebook.com/virasorovirtual" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
+				<li><a href="http://www.twitter.com/santotomevirtual" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
+				<li><a href="http://www.facebook.com/santotomevirtual" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
 				<li><a href="http://instagram.com/virasorovvirtual" class="pi-social-icon-instagram"><i class="icon-instagram"></i></a></li>
 				<li><a href="https://www.youtube.com/channel/UC67T0JQjkpXiMrITmPQufAA" class="pi-social-icon-youtube-play"><i class="icon-youtube-play"></i></a></li>
 			</ul>
@@ -229,7 +221,7 @@
 @endif
 
 
-		<li><a href="http://www.clasificadosvirasoro.com">Clasificados</a></li>
+		<!-- <li><a href="http://www.clasificadosvirasoro.com">Clasificados</a></li> -->
 		<li><a href="/profesionales">Profesionales</a></li>
 
 
@@ -290,29 +282,6 @@
 
 
 
-<br>
-<div id="page"><!-- - - - - - - - - - SECTION - - - - - - - - - -->
-	<div class="pi-section-w pi-section-white">
-		<div class="pi-row">
-			<div class="pi-section-w pi-center-text-xs pi-text-center">
-
-				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-				<!-- VirasoroVirtual 728 x90 -->
-				<ins class="adsbygoogle"
-						style="display:inline-block;width:728px;height:90px"
-						data-ad-client="ca-pub-0796827730614625"
-						data-ad-slot="9003432429"></ins>
-				<script>
-				(adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
-
-			</div>
-		</div>
-
-	</div>
-</div>
-<br>
-
 
 
 <div class="pi-section-w pi-border-top pi-section-base">
@@ -335,8 +304,8 @@
 					</h6>
 
 					<p>
-						Manuel Ocampo 990,<br>
-						Virasoro, Corrientes AR
+						Dirección 0000,<br>
+						Santo Tomé, Corrientes AR
 					</p>
 
 				</div>
@@ -358,9 +327,9 @@
 					</h6>
 
 					<p>
-						+03756 15610566
+						+03756 498610
 						<br>
-						<a href="#">webmaster@virasorovirtual.com</a>
+						<a href="#">webmaster@santotomevirtual.com</a>
 					</p>
 
 				</div>
@@ -382,8 +351,8 @@
 					</h6>
 
 					<ul class="pi-social-icons pi-round pi-jump pi-clearfix">
-						<li><a href="http://www.facebook.com/virasorovirtual" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
-						<li><a href="http://www.twitter.com/virasorovirtual" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
+						<li><a href="http://www.facebook.com/santotomevirtual" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
+						<li><a href="http://www.twitter.com/santotomevirtual" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
 						<li><a href="https://plus.google.com/100582678678073940290/about" class="pi-social-icon-gplus"><i class="icon-gplus"></i></a></li>
 						<li><a href="https://www.youtube.com/channel/UC67T0JQjkpXiMrITmPQufAA" class="pi-social-icon-youtube-play"><i class="icon-youtube-play"></i></a></li>
 					</ul>
@@ -409,7 +378,7 @@
 					<p>
 						Por
 						<br>
-						<a href="http://www.codexcontrol.com">Codex S.A.</a>
+						<a href="http://www.codex-sa.com">Codex S.A.</a>
 					</p>
 
 				</div>
@@ -528,8 +497,8 @@
 		<!-- Social icons -->
 		<div class="pi-header-block pi-pull-right pi-hidden-2xs">
 			<ul class="pi-social-icons-simple pi-small clearFix">
-				<li><a href="http://www.facebook.com/virasorovirtual" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
-				<li><a href="http://www.twitter.com/virasorovirtual" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
+				<li><a href="http://www.facebook.com/santotomevirtual" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
+				<li><a href="http://www.twitter.com/santotomevirtual" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
 				<li><a href="http://instagram.com/virasorovvirtual" class="pi-social-icon-instagram"><i class="icon-instagram"></i></a></li>
 				<li><a href="https://www.youtube.com/channel/UC67T0JQjkpXiMrITmPQufAA" class="pi-social-icon-tumblr"><i class="icon-youtube-play"></i></a></li>
 				<li><a href="https://plus.google.com/100582678678073940290/about" class="pi-social-icon-gplus"><i class="icon-gplus"></i></a></li>
@@ -599,16 +568,6 @@
 
 
 
-		<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-		ga('create', 'UA-137439-1', 'auto');
-		ga('send', 'pageview');
-
-		</script>
 
 
 
