@@ -103,7 +103,7 @@
 	<div class="pi-section pi-section-header pi-section-header-sm pi-clearfix">
 
 <div class="pi-header-block pi-header-block-txt">
-	
+
 	</div>
 		<!-- Phone -->
 		<div class="pi-header-block pi-header-block-txt">
@@ -124,7 +124,7 @@
 			<ul class="pi-social-icons pi-stacked pi-jump pi-full-height pi-bordered pi-small pi-colored-bg clearFix">
 				<li><a href="http://www.twitter.com/santotomevirtual" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
 				<li><a href="http://www.facebook.com/santotomevirtual" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
-				<li><a href="http://instagram.com/virasorovvirtual" class="pi-social-icon-instagram"><i class="icon-instagram"></i></a></li>
+				<!-- <li><a href="http://instagram.com/virasorovvirtual" class="pi-social-icon-instagram"><i class="icon-instagram"></i></a></li> -->
 				<li><a href="https://www.youtube.com/channel/UC67T0JQjkpXiMrITmPQufAA" class="pi-social-icon-youtube-play"><i class="icon-youtube-play"></i></a></li>
 			</ul>
 		</div>
@@ -499,7 +499,7 @@
 			<ul class="pi-social-icons-simple pi-small clearFix">
 				<li><a href="http://www.facebook.com/santotomevirtual" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
 				<li><a href="http://www.twitter.com/santotomevirtual" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
-				<li><a href="http://instagram.com/virasorovvirtual" class="pi-social-icon-instagram"><i class="icon-instagram"></i></a></li>
+				<!-- <li><a href="http://instagram.com/virasorovvirtual" class="pi-social-icon-instagram"><i class="icon-instagram"></i></a></li> -->
 				<li><a href="https://www.youtube.com/channel/UC67T0JQjkpXiMrITmPQufAA" class="pi-social-icon-tumblr"><i class="icon-youtube-play"></i></a></li>
 				<li><a href="https://plus.google.com/100582678678073940290/about" class="pi-social-icon-gplus"><i class="icon-gplus"></i></a></li>
 				<li><a href="/rss" class="pi-social-icon-rss"><i class="icon-rss"></i></a></li>
