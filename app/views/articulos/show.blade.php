@@ -1,4 +1,10 @@
 @extends('layouts.default')
+<link rel="stylesheet" type="text/css" href="css/styles.css" />
+<link rel="stylesheet" type="text/css" href="css/splashscreen.css" />
+
+<script src="http://ajax.microsoft.com/ajax/jQuery/jquery-1.4.4.min.js"></script>
+<script src="/js/jquery.splashscreen.js"></script>
+<script src="/js/script.js"></script>
 
 @section('content')
 
@@ -6,6 +12,9 @@
 
 
 <div id="page"><!-- - - - - - - - - - SECTION - - - - - - - - - -->
+	<div id="promoIMG">
+
+	</div>
 	<div class="pi-section-w pi-section-white">
 
 		<?php
