@@ -278,7 +278,7 @@
 				<!-- End search -->
 
 				<!-- Tweets -->
-				<div class="pi-sidebar-block pi-padding-bottom-40">
+				<div class="pi-sidebar-block pi-padding-bottom-30">
 					<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-20">
 						Ultimos Tweets
 					</h3>
@@ -287,7 +287,7 @@
 				<!-- End tweets -->
 
 				<!-- Flickr photos -->
-				<div class="pi-sidebar-block pi-padding-bottom-40">
+				<div class="pi-sidebar-block pi-padding-bottom-30">
 					<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-20">
 						Facebook
 					</h3>
