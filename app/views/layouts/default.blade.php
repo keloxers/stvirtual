@@ -73,6 +73,8 @@
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.2&appId=165634913501308&autoLogAppEvents=1"></script>
 
 <!--[if lte IE 6]>
 <link rel="stylesheet" href="../ie6.css" type="text/css" media="screen" charset="utf-8" />
@@ -299,7 +301,7 @@
 					</div>
 
 					<h6 class="pi-margin-bottom-20 pi-weight-700 pi-uppercase pi-letter-spacing">
-						
+
 					</h6>
 
 					<p>
