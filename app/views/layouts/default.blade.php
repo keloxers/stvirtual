@@ -114,7 +114,7 @@
 		<!-- End phone -->
 
 		<div class="pi-header-block pi-header-block-txt">
-				<img src="/img/vvwhastsapp.png" alt=""></i><strong>(3756) 500100</strong></a>
+				<img src="/img/vvwhastsapp.png" alt="">Envianos tu noticia al </i><strong>(3756) 500100</strong></a>
 		</div>
 
 
