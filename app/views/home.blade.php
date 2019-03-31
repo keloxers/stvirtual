@@ -495,7 +495,7 @@ if ($turno) {
 
 				<!-- Tweets -->
 				<div class="pi-sidebar-block pi-padding-bottom-40">
-					<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-20">
+					<h3 class="h6 pi-uppercase pi-weight-300 pi-letter-spacing pi-has-bg pi-margin-bottom-20">
 						Facebook
 					</h3>
 					<div class="fb-page" data-href="https://www.facebook.com/santotomevirtual/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/santotomevirtual/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/santotomevirtual/">Santotomevirtual</a></blockquote></div>
