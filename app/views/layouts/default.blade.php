@@ -112,7 +112,7 @@
 		<!-- End phone -->
 
 		<div class="pi-header-block pi-header-block-txt">
-				<img src="/img/vvwhastsapp.png" alt=""></i><strong>(3756) 498610</strong></a>
+				<img src="/img/vvwhastsapp.png" alt=""></i><strong>(3756) 500100</strong></a>
 		</div>
 
 
@@ -122,10 +122,9 @@
 		<!-- Social icons -->
 		<div class="pi-header-block pi-pull-right pi-hidden-2xs">
 			<ul class="pi-social-icons pi-stacked pi-jump pi-full-height pi-bordered pi-small pi-colored-bg clearFix">
-				<li><a href="http://www.twitter.com/santotomevirtual" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
 				<li><a href="http://www.facebook.com/santotomevirtual" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
-				<!-- <li><a href="http://instagram.com/virasorovvirtual" class="pi-social-icon-instagram"><i class="icon-instagram"></i></a></li> -->
-				<li><a href="https://www.youtube.com/channel/UC67T0JQjkpXiMrITmPQufAA" class="pi-social-icon-youtube-play"><i class="icon-youtube-play"></i></a></li>
+				<li><a href="http://www.twitter.com/santomevirtual" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
+				<li><a href="http://instagram.com/santotomevirtual" class="pi-social-icon-instagram"><i class="icon-instagram"></i></a></li>
 			</ul>
 		</div>
 		<!-- End social icons -->
@@ -300,11 +299,10 @@
 					</div>
 
 					<h6 class="pi-margin-bottom-20 pi-weight-700 pi-uppercase pi-letter-spacing">
-						Dirección
+						
 					</h6>
 
 					<p>
-						Dirección 0000,<br>
 						Santo Tomé, Corrientes AR
 					</p>
 
@@ -327,7 +325,7 @@
 					</h6>
 
 					<p>
-						+03756 498610
+						+03756 500100
 						<br>
 						<a href="#">webmaster@santotomevirtual.com</a>
 					</p>
@@ -352,9 +350,8 @@
 
 					<ul class="pi-social-icons pi-round pi-jump pi-clearfix">
 						<li><a href="http://www.facebook.com/santotomevirtual" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
-						<li><a href="http://www.twitter.com/santotomevirtual" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
-						<li><a href="https://plus.google.com/100582678678073940290/about" class="pi-social-icon-gplus"><i class="icon-gplus"></i></a></li>
-						<li><a href="https://www.youtube.com/channel/UC67T0JQjkpXiMrITmPQufAA" class="pi-social-icon-youtube-play"><i class="icon-youtube-play"></i></a></li>
+						<li><a href="http://www.twitter.com/santomevirtual" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
+						<li><a href="https://www.instagram.com/santomevirtual" class="pi-social-icon-instagram"><i class="icon-instagram"></i></a></li>
 					</ul>
 
 				</div>
@@ -498,10 +495,8 @@
 		<div class="pi-header-block pi-pull-right pi-hidden-2xs">
 			<ul class="pi-social-icons-simple pi-small clearFix">
 				<li><a href="http://www.facebook.com/santotomevirtual" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
-				<li><a href="http://www.twitter.com/santotomevirtual" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
-				<!-- <li><a href="http://instagram.com/virasorovvirtual" class="pi-social-icon-instagram"><i class="icon-instagram"></i></a></li> -->
-				<li><a href="https://www.youtube.com/channel/UC67T0JQjkpXiMrITmPQufAA" class="pi-social-icon-tumblr"><i class="icon-youtube-play"></i></a></li>
-				<li><a href="https://plus.google.com/100582678678073940290/about" class="pi-social-icon-gplus"><i class="icon-gplus"></i></a></li>
+				<li><a href="http://www.twitter.com/santomevirtual" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
+				<li><a href="http://instagram.com/santotomevirtual" class="pi-social-icon-instagram"><i class="icon-instagram"></i></a></li>
 				<li><a href="/rss" class="pi-social-icon-rss"><i class="icon-rss"></i></a></li>
 			</ul>
 		</div>
@@ -512,7 +507,7 @@
 		<!-- End footer logo -->
 
 		<!-- Text -->
-		<span class="pi-header-block pi-header-block-txt pi-hidden-xs">&copy; 2014. &laquo;<a href="http://www.codexcontrol.com">Codex S.A.</a>&raquo;.
+		<span class="pi-header-block pi-header-block-txt pi-hidden-xs">&copy; 2014. &laquo;<a href="http://www.codex-sa.com">Codex S.A.</a>&raquo;.
 			Todos los derechos reservados.
 		</span>
 		<!-- End text -->
