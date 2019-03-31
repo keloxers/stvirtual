@@ -1,8 +1,22 @@
-@extends('layouts.default')
+
 
 @section('content')
 
+<link rel="stylesheet" type="text/css" href="/css/styles.css" />
+<link rel="stylesheet" type="text/css" href="/css/splashscreen.css" />
 
+<script src="http://ajax.microsoft.com/ajax/jQuery/jquery-1.4.4.min.js"></script>
+<script src="/js/jquery.splashscreen.js"></script>
+<script src="/js/script.js"></script>
+
+
+<div id="page">
+	<div id="topBar"></div>
+    <div id="promoIMG">
+
+    </div>
+
+</div>
 
 
 <div id="page"><!-- - - - - - - - - - SECTION - - - - - - - - - -->
