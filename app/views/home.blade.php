@@ -574,9 +574,9 @@ if ($turno) {
 </div>
 
 <!-- - - - - - - - - - END SECTION - - - - - - - - - --></div>
-
-
-
+<div id="page"><!-- - - - - - - - - - SECTION - - - - - - - - - -->
+	<a href="https://www.vultr.com/?ref=7585906"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
+</div>
 <div id="page"><!-- - - - - - - - - - SECTION - - - - - - - - - -->
 
 	<!-- Title bar -->
