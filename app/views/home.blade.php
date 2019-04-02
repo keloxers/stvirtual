@@ -552,6 +552,17 @@ if ($turno) {
 				</div>
 
 
+				<div class="pi-sidebar-block pi-padding-bottom-40">
+
+								<div class="pi-row">
+									<div class="pi-section-w pi-center-text-xs pi-text-center">
+
+										<a href="https://www.vultr.com/?ref=7585906"><img src="https://www.vultr.com/media/banner_3.png" width="300" height="250"></a>
+
+									</div>
+								</div>
+				</div>
+
 
 
 
@@ -572,12 +583,6 @@ if ($turno) {
 
 	</div>
 </div>
-
-<!-- - - - - - - - - - END SECTION - - - - - - - - - --></div>
-<div id="page"><!-- - - - - - - - - - SECTION - - - - - - - - - -->
-	<a href="https://www.vultr.com/?ref=7585906"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
-</div>
-<div id="page"><!-- - - - - - - - - - SECTION - - - - - - - - - -->
 
 	<!-- Title bar -->
 	<div class="pi-section-w pi-section-base pi-section-base-gradient">
